@@ -11,6 +11,7 @@ This is the official implementation of the 'STMG-PCNet: Explainable Lightweight 
 python train2.py
 python test2.py
 ```
+Remember to change the path of dataset into your own!
 
 ## Overview
 ![Optional image alt text](STMG-PCNet.jpg)
