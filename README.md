@@ -9,6 +9,7 @@ This is the official implementation of the 'STMG-PCNet: Explainable Lightweight 
 ## 🔥 use VMamba with only ***one file***  !
 ```bash
 python train2.py
+python test2.py
 ```
 
 ## Overview
