@@ -6,13 +6,10 @@ Zichen Zhao, Member, IEEE, Huanzhang Ling, Member, IEEE, Xiaxia Qin, Haodong Xia
 
 This is the official implementation of the 'STMG-PCNet: Explainable Lightweight Shape-Texture Mutual-Guided Predictor-Corrector Network for Infrared Small Target Detection' .
 
-## 🔥 use VMamba with only ***the fewest files***  !
+## 🔥 use VMamba with only ***one file***  !
 ```bash
 python train2.py
-python test2.py
 ```
-Remember to change the path of dataset to your own!
-
 
 ## Overview
 ![Optional image alt text](STMG-PCNet.jpg)
